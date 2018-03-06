@@ -383,7 +383,7 @@ function stageTooSmallHandler(){
             logoCanvas = document.createElement("canvas");
             logoCanvasBG = document.createElement("canvas");
         }
-        createLogo("FLAPPY TEXT", logoCanvas, logoCanvasBG);
+        createLogo(" 光盐交互 键盘 ", logoCanvas, logoCanvasBG);
         if(!gameOverCanvas){
             gameOverCanvas = document.createElement("canvas");
             gameOverCanvasBG = document.createElement("canvas");
